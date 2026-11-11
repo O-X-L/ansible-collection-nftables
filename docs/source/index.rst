@@ -17,3 +17,12 @@ Index
    :maxdepth: 1
 
    modules/*
+
+----
+
+.. toctree::
+   :caption: Legal
+   :glob:
+   :maxdepth: 1
+
+   legal/*
